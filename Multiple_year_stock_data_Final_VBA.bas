@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub Multiple_Year_Stock_Data()
 
     'LOOPING THROUGH ALL WORKSHEETS IN THE WORKBOOK
